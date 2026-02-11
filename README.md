@@ -1,0 +1,1 @@
+A robust Python-based engine designed to provide personalized recommendations by analyzing user behavior and item characteristics. This project serves as a foundation for building scalable discovery systems.
