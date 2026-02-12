@@ -1,1 +1,9 @@
 pandas
+numpy
+scikit-learn
+nltk
+flask
+streamlit
+python-dotenv
+setuptools
+-e .
