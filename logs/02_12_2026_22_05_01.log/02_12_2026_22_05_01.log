@@ -1,3 +1,0 @@
-[ 2026-02-12 22:05:01,620 ] 6 root - INFO - Testing the logger: The script has started successfully.
-[ 2026-02-12 22:05:01,620 ] 9 root - INFO - Attempting a division by zero to trigger CustomException.
-[ 2026-02-12 22:05:01,620 ] 12 root - INFO - An error occurred. Raising CustomException now.

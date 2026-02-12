@@ -4,6 +4,7 @@ scikit-learn
 nltk
 flask
 streamlit
+openpyxl
 python-dotenv
 setuptools
 -e .
